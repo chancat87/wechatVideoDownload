@@ -3,7 +3,7 @@
 
 2.8更新：修复视频下载失败的问题；视频标题支持保存逗号和句号；直播分段时间支持设置更长的时长；修复打开下载目录无效、重名的视频被覆盖的问题
 
-<img width="1153" height="1011" alt="image" src="https://github.com/user-attachments/assets/776b320f-acd8-4cb2-985c-6a399a3b21c0" />
+<img width="1159" height="1006" alt="image" src="https://github.com/user-attachments/assets/5189af35-d22b-46c1-9961-5fdb4522648b" />
 
 ![image](https://github.com/qiye45/wechatVideoDownload/assets/138199658/43b583c5-37bf-45e6-a844-ceabadaea7a8)
 
